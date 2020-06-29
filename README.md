@@ -40,7 +40,7 @@ python quantity 3243243242343
 
 # Issues
 
-I found a little issue that I would like explain:
+I found a little issue that I would like to explain:
 
 If you refer an amount in bytes the measure divided by 1024 because it's multiple by 2, in the case of the excercise 
 you refer by 1000, i.e the result of my script could not be correct, if you like to adjust the script it's very simple, you only need to change the line:
