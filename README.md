@@ -29,13 +29,13 @@ source venv/bin/activate
 - Execute the script specifying the number to convert
 
 ```python
-python quantity [number]
+python quantity.py [number]
 ```
 
 example:
 
 ```python
-python quantity 3243243242343
+python quantity.py 3243243242343
 ```
 
 # Issues
